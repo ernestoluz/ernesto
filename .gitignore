@@ -1,0 +1,10 @@
+# ignorar um arquivo
+# apoio.lib
+
+#ignorar um conjunto de arquivos
+# * .lib
+
+# ignorar uma pasta inteira
+biblioteca/
+
+
